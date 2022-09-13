@@ -1,0 +1,14 @@
+html,
+body,
+#app,
+#app > div {
+  height: 100%;
+}
+
+.App {
+  text-align: center;
+}
+
+.fill-grid {
+  min-height: 100vh;
+}
